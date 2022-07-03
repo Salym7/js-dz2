@@ -2,20 +2,19 @@
 
 // Task #1
 
-let name;
 let admin;
-name = 'Джон';
+const name = 'Джон';
 admin = name;
 alert(admin);
 
 // Task #2
 
-let ourPlanetName = 'Earth';
-let currentUserName = 'Max';
+const ourPlanetName = 'Earth';
+const currentUserName = 'Max';
 
 // Task #3
 
-let sum = '10' + 10;
+const sum = '10' + 10;
 console.log(sum)
 console.log(typeof sum)
 
